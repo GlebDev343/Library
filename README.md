@@ -21,3 +21,8 @@
 3. Запустите приложение:
    ```bash
    python main.py
+
+## Запуск тестов
+
+```bash
+python -m unittest test_library.py
